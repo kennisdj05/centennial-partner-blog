@@ -43,4 +43,5 @@ fields:
   config:
     required: true
 pages:
+- src/pages/posts/fulfillment-through-shared-values.md
 - src/pages/posts/i-believe-in-good.md
