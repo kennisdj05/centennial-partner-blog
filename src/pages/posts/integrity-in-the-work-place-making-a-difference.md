@@ -1,0 +1,21 @@
+---
+template: post
+title: Integrity in the Work Place…Making a Difference?
+subtitle: By Linda S.
+date: 2019-02-06T05:00:00Z
+thumb_img_path: "/images/iStock-933449660_Small-e1538674183334.jpg"
+content_img_path: ''
+excerpt: "“We have an unwavering commitment to honorable business practices and honest
+  communication.”  Unwavering.  Honorable.  Honest. "
+hide_header: true
+
+---
+The quality of being honest and having strong moral principles.” That is the English Oxford Dictionary’s definition of Integrity. For many years I have struggled with the notion that Integrity and the business world, namely the financial services industry, could coexist in one environment, and that an employee of a financial organization could make a positive difference in the world.
+
+There have been times in my adult life that I feel guilty. Guilty that I’m not doing enough to make this world a better place; that I didn’t choose a career path that would accomplish such an ideal. What really am I contributing to the greater good by working for a mortgage lender? What happened to that young girl who wanted to help people, who cared more about others than making a buck? These thoughts come and go; after all, I need to make a life for myself and provide food and shelter for my own family, right? I’m generally a good person, so what difference does my job make anyway? Sleepless night kind of stuff.
+
+When Centennial Lending created and released its Mission Statement recently, I was heartened by the fact that it included “Our Values”. To actually define Values as part of a Mission/Vision Statement speaks volumes about Centennial Lending as a company, and about the team that created the Statement. Centennial defines its first and foremost value as Integrity, and further states: “We have an unwavering commitment to honorable business practices and honest communication.” _Unwavering_. _Honorable_. _Honest_. This means that our customers, be they our credit union partners or their members coming to us for their mortgage needs, can and should expect to be treated honestly, by a company that applies strong moral principles to its business practices. What a service we offer! We can be business-minded people with budgets and financial goals to meet, and still treat people fairly, honestly and morally. Whether it’s by helping some to achieve their dreams of home ownership, or by proactively protecting privacy and providing data integrity for all or by helping those who have fallen on hard times get out of bad financial situations by refinancing or modifying their current mortgages, we can bring out the “services” in the moniker “financial services industry.” We can take the extra time to find creative lending solutions, to increase our knowledge and expertise, to be innovative, and in all things act with Integrity, and thus deliver superior value to our customers; _to help them_.
+
+Going even further, we also have an obligation to our Investors. They, too, need to know that we are committed to honesty and integrity in all that we do. No matter who the Investor is, they should know that we are not going to commit any act of fraud, no matter how small. Whether it would be noticed or detected or even if it would cause “no harm” or ever be known. Even if it’s something “minor” to make the process “easier” – we will not do that – we will act always with Integrity. We will take the extra steps to ensure we aren’t putting any Investor at a higher risk than the loan file indicates. That’s true Integrity. And that’s what they can expect from us…after all, it’s written right into our Mission Statement.
+
+Now, does any of this really mean I can make a difference in the world working at Centennial Lending? Well, in a way, I think that yes, it actually does mean that. I may not be curing disease, feeding the hungry or wildly changing the world with my career choice, but with my day to day work ethic I can and will act with Integrity to do what’s best for our customers, my peers, my managers and our investors. In the day to day decisions I make at work, and the way I choose to act in my role I can make a difference in someone’s life. And knowing that my company makes Integrity such a big part of its Values, right in its Mission Statement, I can expect all of Centennial’s employees to do the same. And that helps me sleep at night.
