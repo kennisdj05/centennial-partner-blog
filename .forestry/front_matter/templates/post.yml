@@ -42,6 +42,3 @@ fields:
   default: post
   config:
     required: true
-pages:
-- src/pages/posts/photography.md
-- src/pages/posts/working-from-home.md
