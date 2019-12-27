@@ -1,5 +1,5 @@
 ---
-title: FAQs
+title: Blog
 menus:
   main:
     title: Home
