@@ -1,5 +1,5 @@
 ---
-title: News
+title: FAQs
 menus:
   main:
     title: Home
